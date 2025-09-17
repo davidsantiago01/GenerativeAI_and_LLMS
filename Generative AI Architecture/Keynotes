@@ -1,0 +1,18 @@
+- Generative AI Refers to deep learning models that can generate various types of content such text, audio, 3D, music and objects.
+- These models generate contextually relevant text. An example of generation model is GPT
+- These models can generate images from text input and seed images. Examples are DALL-E and GAN.
+- you can use these models to generate natural sounding speech, and text-to-text speech synthesis. An example of this type of model is WaveNet
+- Generative AI has specific aplications in industries such as healthcare, fiance, gaming, and IT
+
+- Generative AI Architectures and models: RNN's, Transformers, GAN's, VAE's, and Diffusion Models
+- RNN are artificial neural networks that use sequiencial or time series data. Used them to solve data related problems with natural order or time based dependencies. RNN Aplications: NLP, Language Translation, Speech recognizion 
+and Image captioning.
+-Transformers and deep learning models that can translate text and speech in near real time. They take data such as words and numbers, and pass it through different layers. Transformers employs feedback mechanism to improve
+accuracy. Transformers are designed with a self attention model mechanism that enables the model to focus on the most important parts of the information its looking at, making its understanding and decision-making more
+efficient. 
+-GAN: is a generative AI model consisting of two submodels a generator and discriminator. The generator creates fake samples and sends them to the discriminator, the discrminiator chekcstheir autenticity by comparing them 
+wiuth real samples from the domain set, it then assigns a probability score each sample, indicating how loiley the samples is to be authentic. This process continues like a fiendly competition with the generator striving to 
+to make things look real and discriminator learning to distinguish it. GAN used for image and video generator.
+-VAE:  operates on an encoder decoder framkework, the encoder first compress input data into a simplified abstract space that captures essential characteristics, the decodes then uses this information to recreate the 
+original data.
+Difussion model is trained to generate images by learning how to remove noise or reconstruct examples for training datathat have been distorded beyond recognition.
