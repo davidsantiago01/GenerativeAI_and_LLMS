@@ -16,3 +16,18 @@ to make things look real and discriminator learning to distinguish it. GAN used 
 -VAE:  operates on an encoder decoder framkework, the encoder first compress input data into a simplified abstract space that captures essential characteristics, the decodes then uses this information to recreate the 
 original data.
 Difussion model is trained to generate images by learning how to remove noise or reconstruct examples for training datathat have been distorded beyond recognition.
+
+-Generative AI for NLP: Evolution
+  Rule Based System : Follows predefined Linguistic rules
+  Machine Learning Based Approach: Employs Statistical 
+
+AI hallucinations refer to an AI model generating output presented as accurate but seen as unrealistic, inaccurate, irrelevant, or nonsensical by humans.
+AI hallucination can result in the generation of inaccurate information, the creation of biased views, and wrong input provided to sensitive applications.
+You can prevent the problems caused by AI hallucinations through:
+Extensive training with high-quality data,
+Avoiding manipulation,
+Ongoing evaluation and improvement of the models,
+Fine-tuning on domain-specific data,
+Being vigilant,
+Ensuring human oversight, and
+Providing additional context in the prompt.
