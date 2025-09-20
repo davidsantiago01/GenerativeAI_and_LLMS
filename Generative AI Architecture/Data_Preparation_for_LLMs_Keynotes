@@ -9,3 +9,9 @@
 
 - Tokenizers play a pivotal role in natural language processing, segmenting text into smaller units known as tokens. 
 - These tokens are subsequently transformed into numerical representations called token indices, which are directly employed by deep learning algorithms.
+
+A data loader helps you prepare and load data to train generative AI models. 
+PyTorch and TensorFlow have a dedicated data loader class. 
+Data loaders enable efficient batching and shuffling of data and allow for on-the-fly processing. 
+Data loaders seamlessly integrate with the PyTorch training pipeline and simplify data augmentation and pre-processing. 
+Using data loaders, you can output data in batches instead of one sample at a time. 
