@@ -6,3 +6,6 @@
 - Subword-based tokenization allows frequently used words to stay unsplit while breaking down infrequent words into meaningful sub words. 
 - You can implement subword-based tokenization using the word piece unigram and sentence piece algorithms. 
 - You can add special tokens, such as BOS at the beginning and EOS at the end of a tokenized sentence. 
+
+- Tokenizers play a pivotal role in natural language processing, segmenting text into smaller units known as tokens. 
+- These tokens are subsequently transformed into numerical representations called token indices, which are directly employed by deep learning algorithms.
