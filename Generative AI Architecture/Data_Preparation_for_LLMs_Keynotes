@@ -1,0 +1,8 @@
+
+- Tokenization breaks a sentence into smaller pieces or tokens. 
+- Tokenizers such as NLTK and spaCy generate tokens. 
+- Word based tokenization preserves the semantic meaning, though it increases the model's overall vocabulary. 
+- Character based tokenization has smaller vocabularies but may not convey the same information as entire words. 
+- Subword-based tokenization allows frequently used words to stay unsplit while breaking down infrequent words into meaningful sub words. 
+- You can implement subword-based tokenization using the word piece unigram and sentence piece algorithms. 
+- You can add special tokens, such as BOS at the beginning and EOS at the end of a tokenized sentence. 
